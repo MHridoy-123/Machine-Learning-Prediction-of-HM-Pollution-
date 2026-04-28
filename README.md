@@ -30,4 +30,3 @@ Outputs (figures/tables/metrics) are written to `figures/` and/or `results/` (de
 
 ## Contact
 Lead contact: Chiara Bordin (chiara.bordin@uit.no)
-``
