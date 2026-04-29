@@ -15,9 +15,7 @@ https://github.com/MHridoy-123/Machine-Learning-Prediction-of-HM-Pollution-
 
 
 ## Requirements
-Python (primary): 3.12  
-Key packages: pandas, numpy, matplotlib, seaborn, scikit-learn, xgboost, lightgbm, shap  
-R (optional, selected plots): ggplot2, corrplot
+All analyses were performed locally using R. The repository contains R scripts for data preprocessing, machine‑learning modeling, evaluation, and figure generation.
 
 If running locally:
 pip install -r requirements.txt
